@@ -3,7 +3,7 @@ GetAsyncKeyState API from the Windows #include <Winuser.h> header file.
 
 *)If the user types anything after running the program, a log.txt file will be created, and you can find the content there
 
-
+![Screenshot](images/pic1.png)
 
 
 *) if user types anything which is in your sensitive_words vector then alert.txt file is created and you can find the laert there that sensitive_word is typed.
